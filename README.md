@@ -1,1 +1,5 @@
 # DARI
+
+<?php
+echo("Hola");
+?>
